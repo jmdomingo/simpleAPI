@@ -1,0 +1,28 @@
+
+
+Time: 2015-06-29 08:55:57
+RAW POST DATA: 
+array (
+  'json' => '{"username":"ncr_en","password":"d8578edf8458ce06fbc5bb76a58c5ca4", ........}
+)
+
+DATA FROM JSON: 
+Array
+(
+    [username] => ncr_en
+    [password] => d8578edf8458ce06fbc5bb76a58c5ca4
+    [assessmentForm] => Array
+        (
+            [id] => 1
+            [enumerator_id] => 
+            [af_time_started] => 6-24-2015 1:32:31
+            [af_time_ended] => 6-24-2015 1:39:33
+            [af_household_id] => 
+            [respondent_roster_id] => 1
+            [respondent_name] =>   johnny mhar
+            [enumerator_name] => 
+            [hhid] => 
+        )
+
+    [error] => 0
+)
